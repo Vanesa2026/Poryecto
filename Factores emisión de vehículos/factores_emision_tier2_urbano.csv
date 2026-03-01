@@ -1,0 +1,9 @@
+﻿;nox_g_km;co2_g_km;PM2.5_g_km
+turismo_gasolina;0,069;194,904;0,0007545
+turismo_diesel;0,43;168,706;0,0010965
+hybrid_petrol;0,0255;135,568;0,0007545
+phev;0,01;131,1585;0,0003315
+furgonetas_diesel;0,185;230;0,00155
+autobuses;7;1100;0,00275
+camiones_rigidos;5,5;900;0,00225
+motos;0,19;90;0,00055

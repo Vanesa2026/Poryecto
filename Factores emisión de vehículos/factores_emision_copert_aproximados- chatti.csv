@@ -1,0 +1,22 @@
+tipo_vehiculo,tecnologia,contaminante,unidad,factor_emision,fuente,nota
+Turismo,Gasolina,NOx,g/km,0.06,COPERT,"Urbano, promedio"
+Turismo,Gasolina,PM2.5,g/km,0.002,COPERT,Exhaust only
+Turismo,Gasolina,CO2,g/km,180.0,COPERT,Tank-to-wheel
+Turismo,Diésel,NOx,g/km,0.35,COPERT,"Urbano, promedio"
+Turismo,Diésel,PM2.5,g/km,0.01,COPERT,Exhaust only
+Turismo,Diésel,CO2,g/km,160.0,COPERT,Tank-to-wheel
+Turismo,Híbrido,NOx,g/km,0.02,COPERT,Promedio urbano
+Turismo,Híbrido,PM2.5,g/km,0.001,COPERT,Exhaust only
+Turismo,Híbrido,CO2,g/km,120.0,COPERT,Tank-to-wheel
+Turismo,Eléctrico,NOx,g/km,0.0,COPERT,Emisión local nula
+Turismo,Eléctrico,PM2.5,g/km,0.0,COPERT,Emisión local nula
+Turismo,Eléctrico,CO2,g/km,0.0,COPERT,Emisión local nula
+Motocicleta,Gasolina,NOx,g/km,0.15,COPERT,Urbano
+Motocicleta,Gasolina,PM2.5,g/km,0.005,COPERT,Exhaust
+Motocicleta,Gasolina,CO2,g/km,90.0,COPERT,Tank-to-wheel
+Furgoneta,Diésel,NOx,g/km,0.6,COPERT,Urbano
+Furgoneta,Diésel,PM2.5,g/km,0.02,COPERT,Exhaust
+Furgoneta,Diésel,CO2,g/km,220.0,COPERT,Tank-to-wheel
+Autobús,Diésel,NOx,g/km,6.0,COPERT,Urbano
+Autobús,Diésel,PM2.5,g/km,0.08,COPERT,Exhaust
+Autobús,Diésel,CO2,g/km,1000.0,COPERT,Tank-to-wheel
